@@ -1,3 +1,2 @@
-| | |         * LINK AL REPORT *                 | | |
-V V V                                            V V V
+               * LINK AL REPORT *                 
  >>> https://lookerstudio.google.com/s/hAx-uYGLzXI <<< 
