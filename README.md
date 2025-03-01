@@ -10,5 +10,5 @@ Le analisi effettuate ruotano intorno ai valori degli ascolti e dello share.
 Quelle effettuate nel report si concentrano sull'andamento di questi valori nel tempo e sulle differenze tra le varie serate.<br>
 
 FONTI<br>
-Ho utilizzato un dataset da me creato con dati raccolti su https://www.eurofestivalnews.com/
+Ho utilizzato un dataset da me creato con dati raccolti su https://www.eurofestivalnews.com/<br>
 Per la parte del report focalizzata sulle età dei telespettatori e sugli stream ho fatto riferimento ad un articolo di https://www.agendadigitale.eu/
